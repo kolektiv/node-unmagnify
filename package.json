@@ -1,0 +1,19 @@
+{
+  "author": "Andrew Cherry <andrew@xyncro.com> (http://xyncro.com)",
+  "name": "unmagnify",
+  "description": "Node client for Unmagnify",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kolektiv/node-unmagnify.git"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "request": ">= 2.9.*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

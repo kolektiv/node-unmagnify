@@ -9,7 +9,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "request": "2.10.x"
+    "request": "2.88.x"
   },
   "devDependencies": {},
   "optionalDependencies": {},
